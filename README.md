@@ -1,4 +1,6 @@
 # Rubber-Ducky-Payload
+ ENCODER https://ducktoolkit.com/
+
 
 Disable Av Via clicking 
 
