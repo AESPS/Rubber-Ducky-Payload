@@ -1,4 +1,4 @@
-# Rubber-Ducky-Payload
+# Rubber-Ducky-Payload OWN NOTES
  ENCODER https://ducktoolkit.com/
 
 
